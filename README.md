@@ -3,8 +3,8 @@ C++ beginner
 
 
 
-### Online Programming Record
-CodeForce [martinc1194](https://codeforces.com/profile/martinc1194)
+### Online Programming Contests
+CodeForce [martinc1194](https://codeforces.com/contests/with/martinc1194)
 
 
 ### Stats
