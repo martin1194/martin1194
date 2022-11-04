@@ -4,7 +4,7 @@ C++ beginner
 
 
 ### Online Programming Contests
-CodeForce [martinc1194](https://codeforces.com/contests/with/martinc1194)
+CodeForce [martinc1194](https://codeforces.com/profile/martinc1194)
 
 
 ### Stats
