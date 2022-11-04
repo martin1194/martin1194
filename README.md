@@ -1,5 +1,10 @@
-### Hi there 👋
+### About Me
+C++ beginner
 
+
+
+### Online Programming Record
+CodeForce [martinc1194](https://codeforces.com/profile/martinc1194)
 
 
 ### Stats
