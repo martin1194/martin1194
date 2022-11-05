@@ -9,7 +9,7 @@ CodeForce [martinc1194](https://codeforces.com/profile/martinc1194)
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin1194&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin1194&layout=compact&count_private=true)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=martin1194&count_private=true)
 
 
