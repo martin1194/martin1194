@@ -1,6 +1,6 @@
 ### About Me
 C++ beginner
-J
+Java beginner
 
 
 ### Online Programming Contests
