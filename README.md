@@ -1,11 +1,9 @@
 ### About Me
-C++ beginner
-</p>Java beginner
-
-
-### Online Programming Contests
-CodeForce [martinc1194](https://codeforces.com/profile/martinc1194)
-
+- 🔭 I’m currently working on TS-Launcher(private)
+- 🌱 I’m currently learning Ubuntu, React.
+- 👯 I’m looking to collaborate on myself.
+- 🤔 I’m looking for help with myself.
+- 💬 Ask me about nothing
 
 ### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin1194&layout=compact&count_private=true)  
