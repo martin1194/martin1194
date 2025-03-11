@@ -6,7 +6,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin1194&layout=compact&count_private=true)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=martin1194&count_private=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=martin1194)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ![martin1194's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=martin1194)
 
