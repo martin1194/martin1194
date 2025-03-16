@@ -9,12 +9,13 @@ Wakatime is started on 12 Mar 2025
 
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=martin1194&count_private=true)
-
-
+-----
 ![WakaTime Stats](https://wakatime.com/share/@martin1194/c5ce499b-f93f-4262-9658-9fc0a8b85982.svg)
+-----
 ![WakaTime Stats](https://wakatime.com/share/@martin1194/a5eb9531-3b50-4075-a637-2044e0ac8656.svg)
+-----
 ![WakaTime Stats](https://wakatime.com/share/@martin1194/5e75b4b2-8764-4753-ac9c-2eb8739d0524.svg)
-
+-----
 
 
 
