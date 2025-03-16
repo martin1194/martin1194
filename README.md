@@ -20,7 +20,6 @@ Wakatime is started on 12 Mar 2025
 
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 
