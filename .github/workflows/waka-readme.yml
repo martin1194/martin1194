@@ -4,7 +4,7 @@ on:
     - cron: '0 0 * * *' 
   workflow_dispatch:
 permissions:
-  contents: edit
+  contents: write
 jobs:
   update-readme:
     name: Update Readme with Metrics
